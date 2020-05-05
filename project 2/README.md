@@ -18,7 +18,7 @@ It will be recommend to installing Anaconda, which comes with all of the necessa
 In this project, we have to go through the data analysis process and see how everything fits together.
 I have also use the Python libraries NumPy, pandas, and Matplotlib, which make writing data analysis code in Python a lot easier! 
 
-### What I have learn?
+### What I have learnt?
 After completing the project, I have learned following :
 
 * Know all the steps involved in a typical data analysis process
